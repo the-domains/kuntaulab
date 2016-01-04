@@ -1,28 +1,40 @@
-name: kuntaulab
-favicon: null
-layout_spectrum: 0.6341336031910032
-typography_spectrum: 0.5161706728395075
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.9512739893980324
-  lightness: 0.5805241724010557
-  saturation: 0.11870124842971563
-  rhythmicContrast: 0.13262035767547786
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5340502
+  lightness: 0.3387097
+  brandStrength: 0.9512739893980324
+  brandColors:
+    - '#FFFFFF'
+    - '#BCBCBC'
+    - '#424242'
+    - '#FE9900'
+    - '#808080'
+  rhythmicContrast: 0.4121864
+typography_spectrum: 0.4659498
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: kuntaulab
