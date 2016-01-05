@@ -1,12 +1,7 @@
+name: kuntaulab
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.4569893
+typography_spectrum: 0.4659498
 collections:
   - index:
       path: /
@@ -19,22 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: kuntaulab
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5340502
-  brandStrength: 0.9512739893980324
-  rhythmicContrast: 0.4121864
   brandColors:
     - '#FFFFFF'
     - '#BCBCBC'
     - '#424242'
     - '#FE9900'
     - '#808080'
+  brandStrength: 0.9512739893980324
   lightness: 0.3387097
-typography_spectrum: 0.4659498
-layout_spectrum: 0.4569893
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: kuntaulab
+  saturation: 0.5340502
+  rhythmicContrast: 0.4121864
+purpose: []
