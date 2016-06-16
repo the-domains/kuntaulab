@@ -1,7 +1,7 @@
 name: kuntaulab
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.53333
+layout_spectrum: 0.75296
+typography_spectrum: 0.30561
 collections:
   - index:
       path: /
