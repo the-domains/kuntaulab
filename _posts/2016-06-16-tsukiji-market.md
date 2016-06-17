@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Tsukiji Market
-datePublished: '2016-06-16T10:25:09.068Z'
-dateModified: '2016-06-16T10:16:31.564Z'
+datePublished: '2016-06-17T01:58:17.822Z'
+dateModified: '2016-06-16T10:40:42.464Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-16-tsukiji-market.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-tsukiji-market.md
 url: tsukiji-market/index.html
 _type: Article
 
